@@ -1,6 +1,6 @@
 [input]
 html_selector = "main"
-base_directory = "/home/v002741/work/phihhim.github.io/output"
+base_directory = "output"
 
 [[input.files]]
 path = "my-first-review.html"
