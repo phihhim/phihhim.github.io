@@ -1,0 +1,8 @@
+[input]
+html_selector = "main"
+base_directory = "/home/v002741/work/phihhim.github.io/output"
+
+[[input.files]]
+path = "my-first-review.html"
+url = "/my-first-review.html"
+title = "My First Review"
