@@ -1,6 +1,7 @@
+
 AUTHOR = 'phihhim'
 SITENAME = 'phihhim'
-SITEURL = ''
+SITEURL = 'https://phihhim.github.io/'
 SUBTITLE = 'Phihhim'
 SUBTEXT = '<i>This site is dedicated, in respect and admiration, to the spirit that lives in the computer.</i>'
 PATH = 'content'
@@ -41,8 +42,6 @@ DEFAULT_PAGINATION = 5
 #RELATIVE_URLS = True
 
 
-SEARCH_MODE = "output"
-SEARCH_HTML_SELECTOR = "main"
 # Table of Content Plugin
 TOC = {
     'TOC_HEADERS'       : '^h[1-3]', # What headers should be included in
@@ -53,6 +52,4 @@ TOC = {
                                      # to 'true' no toc will be generated
     'TOC_INCLUDE_TITLE': 'false',    # If 'true' include title in toc
 }
-
-
 
