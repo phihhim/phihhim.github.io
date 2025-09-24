@@ -1,0 +1,45 @@
+theme = 'hextra'
+languageCode = 'vi'
+defaultContentLanguage= 'vi'
+title = 'Vũ An'
+
+
+[menu]
+    [[menu.main]]
+    name = "Chuyên mục"
+    pageRef = "/series"
+    identifier = "series"
+    weight = 1
+
+    [[menu.main]]
+    parent = "series"
+    pageRef = "/series/emacs"
+    name = "+ Nhập môn Emacs"
+
+    [[menu.main]]
+    parent = "series"
+    name = "+ Cấu trúc và Giải thích Chương trình Máy tính"
+
+    [[menu.main]]
+    name = "Tiểu luận"
+    pageRef = "/posts"
+    weight = 2
+
+    [[menu.main]]
+    name = "Tài nguyên"
+    pageRef = "/resource"
+    weight = 2
+
+    [[menu.main]]
+    name = "Giới thiệu"
+    pageRef = "/about"
+    weight = 3
+
+    [[menu.main]]
+    name = "System"
+    weight = 5
+
+    [menu.main.params]
+    type = "theme-toggle"
+    label = false
+    displayToggle = false

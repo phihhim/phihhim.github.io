@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vũ An – Emacs</title>
+    <link>//localhost:1313/series/emacs/</link>
+    <description>Recent content in Emacs on Vũ An</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="//localhost:1313/series/emacs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Emacs 1</title>
+      <link>//localhost:1313/series/emacs/1/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/series/emacs/1/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Test&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
