@@ -16,7 +16,7 @@
     
     
     <item>
-      <title>Emacs 1</title>
+      <title>Tổng quan</title>
       <link>//localhost:1313/series/emacs/1/</link>
       <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
       
@@ -24,7 +24,21 @@
       <description>
         
         
-        &lt;p&gt;Test&lt;/p&gt;
+        &lt;p&gt;Comming soon&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Cài đặt</title>
+      <link>//localhost:1313/series/emacs/2/</link>
+      <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/series/emacs/2/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Comming soon&lt;/p&gt;
 
       </description>
     </item>

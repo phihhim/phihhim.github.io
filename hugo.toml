@@ -21,6 +21,10 @@ title = 'Vũ An'
     name = "+ Cấu trúc và Giải thích Chương trình Máy tính"
 
     [[menu.main]]
+    parent = "series"
+    name = "+ Xử lý đồng thời cao với Python"
+
+    [[menu.main]]
     name = "Tiểu luận"
     pageRef = "/posts"
     weight = 2
