@@ -3,6 +3,9 @@ languageCode = 'vi'
 defaultContentLanguage= 'vi'
 title = 'Vũ An'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [menu]
     [[menu.main]]
